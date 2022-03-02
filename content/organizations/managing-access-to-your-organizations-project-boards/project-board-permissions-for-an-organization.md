@@ -1,4 +1,4 @@
----
+---chandra parkash khatri
 title: Project board permissions for an organization
 intro: 'Organization owners and people with project board admin permissions can customize who has read, write, and admin permissions to your organization’s project boards.'
 redirect_from:
